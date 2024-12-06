@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm hella753! 👋
 
-<!--
-**hella753/hella753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here’s a little about me:
 
-Here are some ideas to get you started:
+## About Me
+I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student. Junior Backend(Django) Developer.
+- 🔭 I’m currently working on Python, Django, Django REST Framework.
+- 💬 I'm currently pursuing my bachelor's degree in computer science at Caucasus University, Tbilisi, Georgia.
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hella753&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hella753&layout=compact&theme=radical)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-$$USERNAME$$-blue)](https://www.linkedin.com/in/kristine-gaphrindashvili/)
