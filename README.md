@@ -13,12 +13,10 @@ I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student
 
 ### Programming Languages
 - **Python**
-- **JavaScript**
 
 ### Frameworks and Libraries
 - **Django**: Full-stack web development, API design with DRF, task management with Celery
 - **PyQt5**: GUI development
-- **React basics**: Front-end development for dynamic web applications
 - Basics of **NumPy and Pandas**
 
 ### Databases
