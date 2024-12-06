@@ -17,5 +17,4 @@ I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student
 You can check my projects in my pinned repositories
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kristine-gaphrindashvili/)
-- [Portfolio](https://tangerine-platypus-a20bda.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hella753-blue)](https://www.linkedin.com/in/kristine-gaphrindashvili)
