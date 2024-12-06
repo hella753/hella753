@@ -14,5 +14,8 @@ I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hella753&layout=compact&theme=radical)
 
+You can check my projects in my pinned repositories
+
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-$kristine-gaphrindashvili$-blue)](https://www.linkedin.com/in/kristine-gaphrindashvili/)
+- [LinkedIn](https://www.linkedin.com/in/kristine-gaphrindashvili/)
+- [Portfolio](https://tangerine-platypus-a20bda.netlify.app/)
