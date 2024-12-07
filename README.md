@@ -7,7 +7,7 @@ I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student
 - 🔭 I’m currently working on Python, Django, Django REST Framework.
 - 💼 Actively seeking **internship opportunities** and **entry-level roles** in tech.
 - 💬 I'm currently pursuing my bachelor's degree in computer science at Caucasus University, Tbilisi, Georgia.
-- 📘 Althout I'm currently focused on Django Web Development, I am also learning algorithms and data structures, and the basics of machine learning in Python.
+- 📘 Although I'm currently focused on Django Web Development, I am also learning algorithms and data structures, and the basics of machine learning in Python.
 - 😄 Pronouns: she/her
 
 ### Frameworks and Libraries
