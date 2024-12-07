@@ -29,7 +29,6 @@ I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student
 - API Integration, Object Oriented Programming, Asynchronous Programming, UI/UX Design
 - Asynchronous Programming with Python (`asyncio`, `aiohttp`), Threading, Multiprocessing.
 
-### Tech Stack
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
