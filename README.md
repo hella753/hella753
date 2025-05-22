@@ -21,7 +21,6 @@ I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student
 - Django ORM, JWT, Mail Services
 
 ### Other Tools and skills
-- **OOP**: Object-Oriented Programming
 - **DRF**: RESTful API design and implementation
 - **Git**: Version control and collaborative development
 - **BeautifulSoup**: Web scraping and data extraction
