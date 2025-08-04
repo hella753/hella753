@@ -6,8 +6,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student. Junior Backend(Django) Developer.
 - 🔭 I’m currently working on Python, Django, Django REST Framework.
 - 💼 Actively seeking **internship opportunities** and **entry-level roles** in tech.
-- 💬 I'm currently pursuing my bachelor's degree in computer science at Caucasus University, Tbilisi, Georgia.
-- 😄 Pronouns: she/her
+- 💬 I completed my Bachelor’s degree in Computer Science at Caucasus University.
 
 ### Frameworks and Libraries
 - **Django**: Full-stack web development, API design with DRF, task management with Celery
@@ -33,6 +32,7 @@ I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
