@@ -3,10 +3,8 @@
 Welcome to my GitHub profile! Here’s a little about me:
 
 ## About Me
-I am Kristine Gaphrindashvili, programming enthusiast, 4th year comp sci student. Junior Backend(Django) Developer.
+I am Kristine Gaphrindashvili, programming enthusiast, I have completed Bachelor's degree in Comp Sci. Junior Backend(Django) Developer.
 - 🔭 I’m currently working on Python, Django, Django REST Framework.
-- 💼 Actively seeking **internship opportunities** and **entry-level roles** in tech.
-- 💬 I completed my Bachelor’s degree in Computer Science at Caucasus University.
 
 ### Frameworks and Libraries
 - **Django**: Full-stack web development, API design with DRF, task management with Celery
