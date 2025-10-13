@@ -3,13 +3,17 @@
 Welcome to my GitHub profile! Here’s a little about me:
 
 ## About Me
-I am Kristine Gaphrindashvili, programming enthusiast, I have completed Bachelor's degree in Comp Sci. Junior Backend(Django) Developer.
+I am Kristine Gaphrindashvili, programming enthusiast, I have completed Bachelor's degree in Comp Sci. I have a background in Backend(Django) development and I am currently working as an RPA Developer at BDO Digital. I also serve as an invited lecturer, teaching Programming Fundamentals I with C++ at Caucasus University, Tbilisi, Georgia.
+
 - 🔭 I’m currently working on Python, Django, Django REST Framework.
+- 🔭 I'm currently working in RPA and growing in C# and .NET.
+- 🔭 I'm teaching Programming Fundamentals I with C++ at Caucasus University.
 
 ### Frameworks and Libraries
 - **Django**: Full-stack web development, API design with DRF, task management with Celery
 - **PyQt5**: GUI development
 - Basics of **NumPy and Pandas**
+- Basics of C#
 
 ### Databases
 - PostgreSQL, SQLite, MongoDB (with PyMongo)
